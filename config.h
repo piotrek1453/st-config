@@ -5,9 +5,9 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Lucida Console Nerd Font Mono:size=14:antialias=true:autohint=true";
+static char *font = "Lucida Console Nerd Font Mono:size=16:antialias=true:autohint=true";
 static char *font2[] = { 
-  "Lucida Console Nerd Font Mono:size=14:antialias=true:autohint=true"};
+  "Symbols Nerd Font:size=16:antialias=true:autohint=true"};
 static int borderpx = 2;
 
 /*
